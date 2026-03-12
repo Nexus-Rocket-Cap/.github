@@ -23,8 +23,10 @@ Nossa equipe é dividida em núcleos de competência técnica para garantir a se
 
 ### 📂 Repositórios de Referência
 * **[Standards]:** Diretrizes de design e padrões de segurança do grupo.
-* **[Mission-Control]:** Softwares de estação de solo e análise de dados pós-voo.
-* **[Wiki-Técnica]:** Documentação detalhada sobre processos de fabricação.
+* **[Eletrônica]:** Sistemas de aviônica, telemetria em tempo real e algoritmos de recuperação (SLRA).
+* **[Mecânica]:** Projetos de fuselagem, sistemas de ejeção e modelagens em CAD/CAE.
+* **[Propulsão]:** Pesquisa de propelentes, testes estáticos e simulações de motores sólidos, hibridos e líquidos
+* **[Documentação]:** Templates em LaTeX para relatórios técnicos, artigos e apresentações acadêmicas.
 
 ---
 
